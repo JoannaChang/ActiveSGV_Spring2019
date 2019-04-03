@@ -1,0 +1,25 @@
+ans_choice,question
+Response,What grade are you in?
+Other (please specify),What grade are you in?
+Walking,How did you got to school this morning? (Check all that apply)
+Car,How did you got to school this morning? (Check all that apply)
+Bus,How did you got to school this morning? (Check all that apply)
+Metro Rail (train),How did you got to school this morning? (Check all that apply)
+Bike,How did you got to school this morning? (Check all that apply)
+Scooter,How did you got to school this morning? (Check all that apply)
+Other (please specify),How did you got to school this morning? (Check all that apply)
+Parent/Grandparent,Who brought you to school this morning? (Check all that apply)
+Neighbor,Who brought you to school this morning? (Check all that apply)
+Friend/s,Who brought you to school this morning? (Check all that apply)
+Came alone,Who brought you to school this morning? (Check all that apply)
+Other (please specify),Who brought you to school this morning? (Check all that apply)
+Fun,Do you think walking and biking to school is? (Check all that apply
+Healthy,Do you think walking and biking to school is? (Check all that apply
+Good for me,Do you think walking and biking to school is? (Check all that apply
+Scary,Do you think walking and biking to school is? (Check all that apply
+Tiring,Do you think walking and biking to school is? (Check all that apply
+Takes too long,Do you think walking and biking to school is? (Check all that apply
+"""Stop, look, listen""",Have you ever heard of the following? (Check all that apply)
+"""Always wear a helmet""",Have you ever heard of the following? (Check all that apply)
+"""Left, right left again""",Have you ever heard of the following? (Check all that apply)
+"""Scan, signal, scan""",Have you ever heard of the following? (Check all that apply)
